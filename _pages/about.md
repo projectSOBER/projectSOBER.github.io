@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About the S.O.B.E.R. Project"
 author_profile: true
 redirect_from: 
