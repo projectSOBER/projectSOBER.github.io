@@ -23,5 +23,5 @@ The proposed mounting configuration has been diagrammed for clarity and precisio
 
 ---
 
-For the full report, including detailed diagrams and references, [click here to download the PDF](/files/Weight%Breakdown%and%Diagram%of%payload.pdf).
+For the full report, including detailed diagrams and references, [click here to download the PDF](https://Joosty.github.io/files/Weight%Breakdown%and%Diagram%of%payload.pdf).
 
