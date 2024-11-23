@@ -21,7 +21,7 @@ repository               : "projectSOBER/projectSOBER.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Project Sober"
   pronouns         : # example: "she/her"  
   bio              : "A proposal for the European Space Agency’s Balloon Experiments for University Students programme, focused on space object brightness evaluation and reference from a stratospheric balloon."
