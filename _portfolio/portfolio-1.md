@@ -8,7 +8,7 @@ As part of the development of **Project S.O.B.E.R.**, a stratospheric balloon ex
 
 ### Weight Breakdown
 
-The payload weight estimation combines known components and projections based on similar missions, such as **RSONAR** and **IRISC**. For S.O.B.E.R., the total estimated mass, including a safety factor, is approximately **7.533 kg**, ensuring compliance with the **BEXUS** payload limit of 100 kg.
+The payload weight estimation combines known components and projections based on similar missions, such as **RSONAR** and **IRISC**. For S.O.B.E.R., the total estimated mass, including a safety factor, is approximately **~8kg**, ensuring compliance with the **BEXUS** payload limit of 100 kg.
 
 Key components include:  
 - **RADIA M100 infrared camera**: 820 g  
