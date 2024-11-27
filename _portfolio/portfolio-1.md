@@ -19,9 +19,5 @@ Key components include:
 
 To optimize the **field of view (FOV)** for observing RSOs, the payload sensors are mounted at a 45-degree angle. The mounting design incorporates learnings from missions like RSONAR and IRISC, ensuring unobstructed data collection and minimizing atmospheric distortion. The payload includes both a **monochrome camera** and a **thermal imaging camera**, each equipped with carefully chosen lenses to meet mission objectives.
 
-The proposed mounting configuration has been diagrammed for clarity and precision, supporting the mission's scientific goals.
 
----
-
-For the full report, including detailed diagrams and references, [click here to download the PDF](https://projectsober.github.io/files/Weight%20Breakdown%20and%20Diagram%20of%20payload.pdf).
 
